@@ -1,1 +1,1 @@
-# bloodcount-api
+GraphQL Backend with Typescript and MongoDB
