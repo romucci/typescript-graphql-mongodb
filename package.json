@@ -15,7 +15,7 @@
   "dependencies": {
     "@types/dotenv": "^4.0.3",
     "@types/graphql": "^14.0.3",
-    "apollo-server-express": "^2.2.5",
+    "apollo-server-express": "^2.14.2",
     "bcrypt": "^5.0.0",
     "cors": "^2.8.4",
     "dotenv": "^6.1.0",
