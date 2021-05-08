@@ -23,7 +23,7 @@
     "graphql": "^14.0.2",
     "graphql-tools": "^4.0.3",
     "jsonwebtoken": "^8.5.1",
-    "lodash": "^4.17.11",
+    "lodash": "^4.17.21",
     "mongoose": "^5.4.20",
     "morgan": "^1.9.1"
   },
